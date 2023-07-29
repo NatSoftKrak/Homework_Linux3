@@ -1,0 +1,12 @@
+   0 date
+   1 date >> /tmp/hw3/newfile/date.txt
+   2 mkdir -p /tmp/hw3/newfile/Natalia
+   3 ls
+   4 echo "Homework 3" >> /tmp/hw3/newfile/date.txt
+   5 ls -a
+   6 df -h / >> /tmp/hw3/newfile/date.txt
+   7 history | tail -n 5 >> /tmp/hw3/newfile/date.txt
+   8 grep 'vendor' /proc/cpuinfo | sort -u /tmp/hw3/newfile/date.txt
+   9 history
+  10 history history_28_July
+  11 history > history_28_July
